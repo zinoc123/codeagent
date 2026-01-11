@@ -23,7 +23,6 @@
 ### 启动命令
 
 ```bash
-cd /var/wangzhong/code-agent
 bash start.sh
 ```
 
