@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+langchain
+langchain-openai
+langchain-ollama
+langgraph
+pydantic
+aiofiles
+httpx
+pytest
+langchain-community
+langchain-qdrant
+qdrant-client
